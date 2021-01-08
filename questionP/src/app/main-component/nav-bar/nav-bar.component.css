@@ -1,0 +1,14 @@
+#nav{
+  background-color: #09254c;
+  width: 100vw;
+  height: 70px;
+}
+
+#nav a{
+  position: absolute;
+  font-size: 24px;
+  text-decoration: none;
+  color: white;
+  margin-top: 25px;
+  margin-left: 30px;
+}
